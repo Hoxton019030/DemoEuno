@@ -32,6 +32,7 @@
 
 # commit 訊息的一些想法
 可以使用Angular Js開發團隊的寫法
+https://github.com/angular/angular
 
 commit的標題分為以下九種
 
