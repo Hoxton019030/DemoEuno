@@ -33,13 +33,14 @@
 # commit 訊息的一些想法
 可以使用Angular Js開發團隊的寫法
 https://github.com/angular/angular
+![image](https://user-images.githubusercontent.com/98711945/186552672-75d56a92-9de8-426c-af23-bf7a5384d33c.png)
 
 commit的標題分為以下九種
 
 ![image](https://user-images.githubusercontent.com/98711945/186552532-f7719c64-a48b-4923-bd91-3b3329166f50.png)
 ![image](https://user-images.githubusercontent.com/98711945/186552555-def00769-c119-4de9-9c38-2bab0de7c0bf.png)
 
-![image](https://user-images.githubusercontent.com/98711945/186552672-75d56a92-9de8-426c-af23-bf7a5384d33c.png)
+
 
 
 格式
