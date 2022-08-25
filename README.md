@@ -24,6 +24,11 @@
 
 ![image](https://user-images.githubusercontent.com/98711945/186551992-e9a27eba-4eba-4b31-be18-faf18b46ddad.png)
 
+在bash裡面也可以用tab+tab的方式呈現出目前feature分支有什麼
+
+![image](https://user-images.githubusercontent.com/98711945/186554915-e8f08f31-839d-4069-9f79-98e07dc3c88d.png)
+
+
 
 # commit 訊息的一些想法
 可以使用Angular Js開發團隊的寫法
