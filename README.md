@@ -38,7 +38,7 @@ https://github.com/angular/angular
 commit的標題分為以下九種
 
 ![image](https://user-images.githubusercontent.com/98711945/186552532-f7719c64-a48b-4923-bd91-3b3329166f50.png)
-![image](https://user-images.githubusercontent.com/98711945/186552555-def00769-c119-4de9-9c38-2bab0de7c0bf.png)
+![image](https://user-images.githubusercontent.com/98711945/186555317-9d6e039d-8051-440b-aaef-bb5639f7d959.png)
 
 
 
